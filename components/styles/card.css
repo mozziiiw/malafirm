@@ -1,0 +1,30 @@
+  .card:hover {
+    border: 0.5px solid black;
+  }
+  
+
+
+  /* FAQ.module.css */
+
+.accordion {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .trigger {
+    padding: 16px;
+    background: #f9f9f9;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .trigger:hover {
+    background: #eaeaea;
+  }
+  
+  .content {
+    padding: 16px;
+    background: white;
+  }
